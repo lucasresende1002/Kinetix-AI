@@ -1,8 +1,3 @@
-<div align="center">
-  # KINETIX AI
-  ### Inteligencia artificial para avaliacao de risco de lesao atletica
-</div>
-
 Aplicacao web desenvolvida em React + Vite para apoiar a analise de risco de lesao em atletas com base em dados de carga, recuperacao e sinais de alerta. O sistema integra o Gemini para gerar uma avaliacao estruturada com nivel de risco, fatores-chave e recomendacoes praticas.
 
 ## Visao Geral
